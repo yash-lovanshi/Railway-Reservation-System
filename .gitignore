@@ -1,0 +1,8 @@
+# Compiled binaries
+*.exe
+railway
+a.out
+
+# Editor folders
+.vscode/
+.idea/
